@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author DELL
+ * @author veer
  */
 public class homepage extends javax.swing.JFrame {
 int invc;
